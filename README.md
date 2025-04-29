@@ -1,4 +1,4 @@
-# crun - Shell plugin to compilen and run .c files
+# Crun - Shell plugin to compile and run .c files
 
 A convenient shell plugin that streamlines the process of compiling and running C programs in a single command.
 
